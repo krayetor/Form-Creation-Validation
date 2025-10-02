@@ -13,19 +13,19 @@ By the end of this project, you will have a solid understanding of advanced Java
 ## Learning Objectives
 By the end of this project, students should be able to:
 
-1.<strong>Implement Form Validation:</strong>
-    - Understand and implement basic form       validation using JavaScript.
-    - Ensure user inputs meet specified criteria before form submission.
+1. <strong>Implement Form Validation:</strong>
+- Understand and implement basic form       validation using JavaScript.
+- Ensure user inputs meet specified criteria before form submission.
 
-2.<strong>Work with the DOM:</strong>
-    - Use DOM manipulation to dynamically interact with HTML elements.
-    - Understand and utilize event listeners for form submission and input validation.
+2. <strong>Work with the DOM:</strong>
+- Use DOM manipulation to dynamically interact with HTML elements.
+- Understand and utilize event listeners for form submission and input validation.
 
-3.<strong>Asynchronous JavaScript and APIs:</strong>
-    - Use JavaScript to fetch data asynchronously from a public API.
-    - Display fetched data dynamically on a webpage.
-    - Handle potential errors during data fetching.
+3. <strong>Asynchronous JavaScript and APIs:</strong>
+- Use JavaScript to fetch data asynchronously from a public API.
+- Display fetched data dynamically on a webpage.
+- Handle potential errors during data fetching.
 
-4.<strong>Enhance User Experience:</strong>
-    - Provide real-time feedback to users for form validation.
-    - Ensure data persists across browser sessions using local storage.
+4. <strong>Enhance User Experience:</strong>
+- Provide real-time feedback to users for form validation.
+- Ensure data persists across browser sessions using local storage.
